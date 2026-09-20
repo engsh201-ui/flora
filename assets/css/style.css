@@ -225,7 +225,9 @@ nav{
 /* قسم most */
 .most-trending {
   max-width: 1226vw;
-  margin: 94px 70px 94px 70px;
+  /* margin: 94px 70px 94px 70px; */
+  margin-top: 70px;
+  margin-bottom: 70px;
   background-color: #fff;
   h1{
     max-width: 424px;
@@ -296,8 +298,10 @@ nav{
 
 /* قسم best */
 .Best{
-  margin: 94px 70px 0px 70px;
-  margin: auto;
+  /* margin: 94px 70px 0px 70px; */
+  /* margin: auto; */
+  margin-top: 70px;
+  margin-bottom: 70px;
   /* max-width: 1226vw; */
   width: 90vw;
 
@@ -308,7 +312,7 @@ nav{
       font-weight: 700;
       font-size: 39px;
       /* margin: auto; */
-      margin-left: 70px;
+      margin-left: 50px;
       margin-bottom: 5px; 
     }
     p{
